@@ -11,6 +11,8 @@
 		E8E81302259B8D6800442272 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E81301259B8D6800442272 /* ContentView.swift */; };
 		E8E81304259B8D6A00442272 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8E81303259B8D6A00442272 /* Assets.xcassets */; };
 		E8E81307259B8D6A00442272 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8E81306259B8D6A00442272 /* Preview Assets.xcassets */; };
+		E8E81311259B909B00442272 /* tips.json in Resources */ = {isa = PBXBuildFile; fileRef = E8E8130F259B909B00442272 /* tips.json */; };
+		E8E81312259B909B00442272 /* locations.json in Resources */ = {isa = PBXBuildFile; fileRef = E8E81310259B909B00442272 /* locations.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		E8E81303259B8D6A00442272 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E8E81306259B8D6A00442272 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E8E81308259B8D6A00442272 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E8E8130F259B909B00442272 /* tips.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tips.json; sourceTree = "<group>"; };
+		E8E81310259B909B00442272 /* locations.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = locations.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 				E8E81301259B8D6800442272 /* ContentView.swift */,
 				E8E81303259B8D6A00442272 /* Assets.xcassets */,
 				E8E81308259B8D6A00442272 /* Info.plist */,
+				E8E81310259B909B00442272 /* locations.json */,
+				E8E8130F259B909B00442272 /* tips.json */,
 				E8E81305259B8D6A00442272 /* Preview Content */,
 			);
 			path = Trekr;
@@ -128,6 +134,8 @@
 			files = (
 				E8E81307259B8D6A00442272 /* Preview Assets.xcassets in Resources */,
 				E8E81304259B8D6A00442272 /* Assets.xcassets in Resources */,
+				E8E81312259B909B00442272 /* locations.json in Resources */,
+				E8E81311259B909B00442272 /* tips.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
