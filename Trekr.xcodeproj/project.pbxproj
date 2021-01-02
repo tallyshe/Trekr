@@ -61,6 +61,7 @@
 		E8CEEFA425A0BA5300C7DC02 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				E8E812FF259B8D6800442272 /* TrekrApp.swift */,
 				E8E81301259B8D6800442272 /* ContentView.swift */,
 				E8DD3C92259F886F0021866C /* WorldView.swift */,
 				E8DD3C9825A05D000021866C /* TipsView.swift */,
@@ -95,7 +96,6 @@
 		E8E812FE259B8D6800442272 /* Trekr */ = {
 			isa = PBXGroup;
 			children = (
-				E8E812FF259B8D6800442272 /* TrekrApp.swift */,
 				E8CEEFA125A0BA1600C7DC02 /* Model */,
 				E8CEEFA425A0BA5300C7DC02 /* Views */,
 				E8CEEFA625A0BA9400C7DC02 /* ViewModel */,
