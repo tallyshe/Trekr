@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E839B6742684FAB70038A97F /* PlaceListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E839B6732684FAB70038A97F /* PlaceListView.swift */; };
 		E84E35A9259D030C0083E852 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84E35A8259D030C0083E852 /* Location.swift */; };
 		E84E35AC259D0B910083E852 /* Locations.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84E35AB259D0B910083E852 /* Locations.swift */; };
 		E8DD3C93259F886F0021866C /* WorldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8DD3C92259F886F0021866C /* WorldView.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E839B6732684FAB70038A97F /* PlaceListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceListView.swift; sourceTree = "<group>"; };
 		E84E35A8259D030C0083E852 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		E84E35AB259D0B910083E852 /* Locations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Locations.swift; sourceTree = "<group>"; };
 		E8DD3C92259F886F0021866C /* WorldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldView.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				E8E81301259B8D6800442272 /* ContentView.swift */,
 				E8DD3C92259F886F0021866C /* WorldView.swift */,
 				E8DD3C9825A05D000021866C /* TipsView.swift */,
+				E839B6732684FAB70038A97F /* PlaceListView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			files = (
 				E8E81302259B8D6800442272 /* ContentView.swift in Sources */,
 				E84E35A9259D030C0083E852 /* Location.swift in Sources */,
+				E839B6742684FAB70038A97F /* PlaceListView.swift in Sources */,
 				E8DD3C93259F886F0021866C /* WorldView.swift in Sources */,
 				E8DD3C96259F9CD10021866C /* Tip.swift in Sources */,
 				E8DD3C9925A05D000021866C /* TipsView.swift in Sources */,

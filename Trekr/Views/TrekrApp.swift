@@ -23,6 +23,14 @@ struct TrekrApp: App {
                 }
                 
                 NavigationView{
+                    PlaceListView()
+                }
+                .tabItem {
+                    Image(systemName: "location.north.line")
+                    Text("Places")
+                }
+                
+                NavigationView{
                     WorldView()
                 }
                 .tabItem {
